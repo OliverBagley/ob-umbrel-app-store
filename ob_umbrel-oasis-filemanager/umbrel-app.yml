@@ -6,12 +6,11 @@ icon: https://svgur.com/i/mvA.svg
 category: Utilities
 version: "1.0.0"
 port: 4000
-description: >-
-  Oasis File Manager is a simple file manager for your Umbrel. It allows you to manage your files and folders easily.
+description: Oasis File Manager is a simple file manager for your Umbrel. It allows you to manage your files and folders easily.
 
 developer: Machengim
 website: https://github.com/machengim/oasis
-#submitter: OB
+submitter: OB
 #submission: https://github.com/getumbrel/umbrel-hello-world-app
 #repo: https://github.com/getumbrel/umbrel-hello-world-app
 #support: https://github.com/getumbrel/umbrel-hello-world-app/issues
@@ -19,8 +18,7 @@ website: https://github.com/machengim/oasis
 #  - https://i.imgur.com/yyVG0Jb.jpeg
 #  - https://i.imgur.com/yyVG0Jb.jpeg
 #  - https://i.imgur.com/yyVG0Jb.jpeg
-releaseNotes: >-
-  Initial release of Oasis File Manager.
+releaseNotes: Initial release of Oasis File Manager.
 dependencies: []
 path: ""
 defaultUsername: "admin"
